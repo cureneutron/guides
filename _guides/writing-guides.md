@@ -92,6 +92,8 @@ syntax of Markdown to define it so that hovering it shows what it is.
 
 ## Submitting
 
+[![sonobutt]({{site.baseurl}}/img/sonoko-butt.png)](https://streamable.com/s/l30qj/kigmjx "streamable")
+
 [section to be written]
 
 [atm basically contact Mussah or Syco]
