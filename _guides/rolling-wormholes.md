@@ -40,7 +40,7 @@ All wormholes "reduce" when they hit 50% of the total mass allowed through ("Thi
 and "crit" when there's only 10% mass left (aka 90% of total allowed mass jumped through) ("This wormhole has had its stability critically disrupted by the mass of numerous ships passing through and is on the verge of collapse." )
 You can and should regularly check whether a wormhole is reduced, crit or normal (above 50% mass left) by right clicking and pressing "show info" on the wormhole itself
 (if it's normal, it will say "This wormhole has not yet had its stability significantly disrupted by ships passing through it." )
-All wormholes also have a 10% deviation to their mass amount, so a hole with 30 RU of mass can have anywhere between 30^3 worth of mass.
+All wormholes also have a 10% deviation to their mass amount, so a hole with 30 RU of mass can have anywhere between 27 and 33 RU worth of mass.
 
 ## All-Out Rolling
 
