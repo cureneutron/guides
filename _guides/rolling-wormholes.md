@@ -3,7 +3,7 @@ layout: guide
 disabled: false
 title: All-Out Guide to Rolling Wormholes
 shorttitle: Rolling Wormholes
-author: Mussah Yacoub
+author: TankDevastator
 excerpt: >
     What is 'rolling a wormhole' and how do I do it?
 ---
@@ -354,7 +354,7 @@ Adaptive Nano Plating II
 Cap Recharger II
 Eutectic Compact Cap Recharger
 
-Prototype Cloaking Device I
+Prototype Cloaking Device I````
 Clutch Restrained Warp Disruption Field Generator
 Clutch Restrained Warp Disruption Field Generator
 Clutch Restrained Warp Disruption Field Generator
@@ -375,7 +375,6 @@ Focused Warp Disruption Script x5
 
 If you can't fit T2 modules, kill yourself, train skills, and use meta modules in the meanwhile
     
-## Glossary/Reminder
 
 *[Gg]: Gigagram
 *[kT]: Kiloton
