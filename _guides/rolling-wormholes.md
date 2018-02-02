@@ -20,7 +20,7 @@ We call this process "rolling wormholes", and the ships and fits we use "rolling
 * TOC
 {:toc}
 
-## General Information
+## General Information About Rolling
 
 Rolling mass amounts are discussed in very large units, called Gigagrams (Gg) or Kilotons (kT). They are both equal to
 1,000,000 kg of mass. The superior unit of measurement is however the "Rolling Unit", or RU, which is 100,000,000 kg, or 100 Gg/kT
@@ -41,6 +41,43 @@ and "crit" when there's only 10% mass left (aka 90% of total allowed mass jumped
 You can and should regularly check whether a wormhole is reduced, crit or normal (above 50% mass left) by right clicking and pressing "show info" on the wormhole itself
 (if it's normal, it will say "This wormhole has not yet had its stability significantly disrupted by ships passing through it." )
 All wormholes also have a 10% deviation to their mass amount, so a hole with 30 RU of mass can have anywhere between 27 and 33 RU worth of mass.
+
+### Wormhole age
+Wormholes also have another stat that you should keep track of, namely their age. Generally, all wormholes last from between 16 and 24 hours, depending on the wormhole type, with few exceptions
+
+~~~
+"This wormhole has not yet begun its natural cycle of decay and should last at least another day."  -- means 24+ hours left
+"This wormhole is beginning to decay, and probably won't last another day."                         -- means under 24 hours left
+"This wormhole is reaching the end of its natural lifetime."                                        -- less than 4 hours left 
+"This wormhole is on the verge of dissipating into the ether."                                      -- imminent collapse, you generally won't see this unless ccp fucks up
+~~~
+
+### Wormhole types
+For the autist, this is invaluable information, as you can be smart about rolling unknown holes only when you know their type.
+Wormhole type is the O447, or K162 or something else written on the overview, you should also mark this down in siggy, as it's important.
+Generally, the important thing to know is that K162 are "incoming" wormholes, aka statics of other wormholes connecting to us or another wormhole, and
+that they can be rolled without popping back again, while other holes are usually statics that will respawn (if it's written as such in siggy), or other holes connecting from the hole in question
+
+For more information on different types of holes, consult this website until we get a proper table here: http://www.ellatha.com/eve/wormholelist.asp
+
+## General Info About Rolling Ships
+We use specially fit ships, mostly Megathrons for rolling, and cheap Thoraxes for "threading" holes that are crit (and shouldn't be jumped by a battleship)
+These have 2 states, depending on if the prop mod (MWD/Afterburner) is turned on or off. When it's on, the ship is "hot" and when it's off, it's "cold"
+Here are the mass numbers of the different ships used:
+
+~~~
+- Hot Higgs Mega      - 300 Gg (3 RU)
+- Cold Higgs Mega     - 200 Gg (2RU)
+- Hot Unrigged Mega   - 150 Gg (1,5 RU)
+- Cold Unrigged Mega  - 100 Gg (1 RU)
+- Hot Higgs Thorax    - 125 Gg (1,25 RU)
+- Cold Higgs Thorax   - 25 Gg (0,25 RU)
+~~~
+
+
+
+
+
 
 ## All-Out Rolling
 
