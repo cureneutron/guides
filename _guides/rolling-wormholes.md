@@ -74,6 +74,46 @@ Here are the mass numbers of the different ships used:
 - Cold Higgs Thorax   - 25 Gg (0,25 RU)
 ~~~
 
+Megathron alternatives include: Tempests, Ravens, Apocalypses. The most important thing to get is a Large Higgs Anchor rig and a
+Large MWD/Afterburner, rest is up to you (some tank and cap mods/rigs are recommended)
+
+Thorax alternatives include: any t1 cruiser equipped with a Medium Higgs Anchor rig and an oversized (100mn/500mn) propulsion module.
+
+## All-Out Rolling
+
+### All-Out Statics
+Both of All-out's statics have 20 RU's worth of mass, which is 18-22 RU's worth of mass when we count in the mass deviation (This is important).
+They also have a 300Gg (3 RU) of mass limit that can go through at one time. This is good, because cancer like carriers and dreads can't come in and evict us.
+This is also bad because you can't bring anything heavier than that in or out of the hole.
+
+
+#### The brainlet's rolling process
+
+First of all, make sure you're in a rolling battleship on the home side of the hole. Then follow this:
+
+1.)Cold (out) - Hot (back)
+2.)Cold (out) - Hot (back)
+
+Now check if the hole is reduced. If it is, do:
+
+3.a)Cold (out) - Hot (back)
+4.a)Cold (out) - Hot (back)
+
+If it is not reduced, do:
+
+3.b)Hot (out) - Hot (back)
+4.b)Hot (out) - Hot (back)
+
+This applies to holes that haven't had battleships or multiple battlecruisers jump them, aka "fresh" holes.
+Wormholes that had significant mass go through them will sometimes reduce or close early, so refer to the procedure below.
+ 
+#### NEVER JUMP ROLLING BATTLESHIPS THROUGH CRIT ("Verge of collapse") WORMHOLES UNLESS YOU INTEND TO CLOSE THEM ON THAT PASS
+
+
+
+
+
+
 
 
 
