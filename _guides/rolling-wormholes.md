@@ -373,8 +373,8 @@ Focused Warp Scrambling Script x3
 Focused Warp Disruption Script x5
 ~~~
 
-If you can't fit T2 modules, kill yourself, train skills, and use meta modules in the meanwhile
-    ±
+If you can't fit T2 modules, kill yourself (in-game), train skills, and use meta modules in the meanwhile
+    
 
 *[Gg]: Gigagram
 *[kT]: Kiloton
