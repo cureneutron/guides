@@ -1,14 +1,13 @@
-ï»¿---
-layout: guide                       
-disabled: false                     
-title: The All-Out Guide to Rolling Wormholes Properly  
-shorttitle: Rolling Wormholes (Properly)               
-author: TankDevastator (with help from Satori, Avada and Mussah)                   
-excerpt: >                          
-  All about wormholes, wormhole types and how to roll them properly and safely                
 ---
-
-##Introduction
+layout: guide
+disabled: false
+title: All-Out Guide to Rolling Wormholes
+shorttitle: Rolling Wormholes
+author: Mussah Yacoub
+excerpt: >
+    What is 'rolling a wormhole' and how do I do it?
+---
+## Introduction
 
 So, you might have heard of the terms "rolling wormholes" and "rolling ships" and have been wondering what the fuck they are
 Basically, every wormhole has a max amount of mass that can go through it before it collapses, and a max amount of mass that can go through each jump
@@ -16,7 +15,12 @@ and by doing "passes" aka going through and back with ships that are close to th
 we can kill bad/dangerous wormholes, or get better statics than the ones we have (since statics spawn a wormhole of the same type after being rolled).
 We call this process "rolling wormholes", and the ships and fits we use "rolling ships"
 
-##General Information About Rolling
+## Overview
+
+* TOC
+{:toc}
+
+## General Information About Rolling
 
 Rolling mass amounts are discussed in very large units, called Gigagrams (Gg) or Kilotons (kT). They are both equal to
 1,000,000 kg of mass. The superior unit of measurement is however the "Rolling Unit", or RU, which is 100,000,000 kg, or 100 Gg/kT
@@ -26,17 +30,17 @@ Also, ship mass is increased when you activate a prop mod (MWD or an Afterburner
 so a large afterburner and a large MWD increase the mass by the same amount)
 
 
-##General Info About Wormholes
+## General Info About Wormholes
 Wormholes have 3 important statistics that we'll keep track of here: the wormhole mass, age and type.
 
-###Wormhole Mass
+### Wormhole Mass
 All wormholes "reduce" when they hit 50% of the total mass allowed through ("This wormhole has had its stability reduced by ships passing through it, but not to a critical degree yet"),
 and "crit" when there's only 10% mass left (aka 90% of total allowed mass jumped through) ("This wormhole has had its stability critically disrupted by the mass of numerous ships passing through and is on the verge of collapse." )
 You can and should regularly check whether a wormhole is reduced, crit or normal (above 50% mass left) by right clicking and pressing "show info" on the wormhole itself
 (if it's normal, it will say "This wormhole has not yet had its stability significantly disrupted by ships passing through it." )
-All wormholes also have a 10% deviation to their mass amount, so a hole with 30 RU of mass can have anywhere between 30Â±3 worth of mass.
+All wormholes also have a 10% deviation to their mass amount, so a hole with 30 RU of mass can have anywhere between 30±3 worth of mass.
 
-###Wormhole age
+### Wormhole age
 Wormholes also have another stat that you should keep track of, namely their age. Generally, all wormholes last from between 16 and 24 hours, depending on the wormhole type, with few exceptions
 
 ~~~
@@ -46,7 +50,7 @@ Wormholes also have another stat that you should keep track of, namely their age
 "This wormhole is on the verge of dissipating into the ether."                                      -- imminent collapse, you generally won't see this unless ccp fucks up
 ~~~
 
-###Wormhole types
+### Wormhole types
 For the autist, this is invaluable information, as you can be smart about rolling unknown holes only when you know their type.
 Wormhole type is the O447, or K162 or something else written on the overview, you should also mark this down in siggy, as it's important.
 Generally, the important thing to know is that K162 are "incoming" wormholes, aka statics of other wormholes connecting to us or another wormhole, and
@@ -54,7 +58,7 @@ that they can be rolled without popping back again, while other holes are usuall
 
 For more information on different types of holes, consult this website until we get a proper table here: http://www.ellatha.com/eve/wormholelist.asp
 
-##General Info About Rolling Ships
+## General Info About Rolling Ships
 We use specially fit ships, mostly Megathrons for rolling, and cheap Thoraxes for "threading" holes that are crit (and shouldn't be jumped by a battleship)
 These have 2 states, depending on if the prop mod (MWD/Afterburner) is turned on or off. When it's on, the ship is "hot" and when it's off, it's "cold"
 Here are the mass numbers of the different ships used:
@@ -73,14 +77,14 @@ Large MWD/Afterburner, rest is up to you (some tank and cap mods/rigs are recomm
 
 Thorax alternatives include: any t1 cruiser equipped with a Medium Higgs Anchor rig and an oversized (100mn/500mn) propulsion module.
 
-##All-Out Rolling
+## All-Out Rolling
 
-###All-Out Statics
-Both of All-out's statics have 20 RU's worth of mass, which is 20Â±2 RU's worth of mass when we count in the mass deviation (This is important).
+### All-Out Statics
+Both of All-out's statics have 20 RU's worth of mass, which is 20±2 RU's worth of mass when we count in the mass deviation (This is important).
 They also have a 300Gg (3 RU) of mass limit that can go through at one time. This is good, because cancer like carriers and dreads can't come in and evict us.
 This is also bad because you can't bring anything heavier than that in or out of the hole.
 
-####The brainlet's rolling process
+#### The brainlet's rolling process
 
 First of all, make sure you're in a rolling battleship on the home side of the hole. Then follow this:
 
@@ -284,7 +288,7 @@ Medium Higgs Anchor I
 [Empty Rig slot]
 ~~~
 
-####HIC rolling
+#### HIC rolling
 
 You can also use the malignant cancer known as a HIC, or a Heavy Interdiction Cruiser to roll. 
 It is also a much more fail-proof way of rolling crit holes (aka "threading"), since hics can mount multiple warp disruption field generators (unscripted), and activate them all at the same time in order to drop their mass to sub-frigate levels.
@@ -367,7 +371,7 @@ Focused Warp Disruption Script x5
 
 If you can't fit T2 modules, kill yourself, train skills, and use meta modules in the meanwhile
     
-##Glossary/Reminder
+## Glossary/Reminder
 
 *[Gg]: Gigagram
 *[kT]: Kiloton
@@ -378,4 +382,3 @@ If you can't fit T2 modules, kill yourself, train skills, and use meta modules i
 *[Hot]: Prop mod ON
 *[Pyfa]: Python Fitting Assistant
 *[EFT]: Eve Fitting Tool
-
