@@ -9,7 +9,11 @@ excerpt: >
 ---
 ## Introduction
 
-Wormholes collapse if enough mass jumps through them.  We can ram our holes with massive ships in a controlled way to close them safely.  We do this to secure our hole, get better kspace exits, or get new wormhole space chains.
+So, you might have heard of the terms "rolling wormholes" and "rolling ships" and have been wondering what the fuck they are
+Basically, every wormhole has a max amount of mass that can go through it before it collapses, and a max amount of mass that can go through each jump
+and by doing "passes" aka going through and back with ships that are close to the maximum amount of mass that can go through,
+we can kill bad/dangerous wormholes, or get better statics than the ones we have (since statics spawn a wormhole of the same type after being rolled).
+We call this process "rolling wormholes", and the ships and fits we use "rolling ships"
 
 ## Overview
 
@@ -18,9 +22,25 @@ Wormholes collapse if enough mass jumps through them.  We can ram our holes with
 
 ## General Information
 
-Rolling mass amounts are  discussed in very large units. You will probably see both Gg and kT used when reading guides and talking to people - these are both one million kilograms (1,000,000 kg).  Ship mass is usually given in kilograms in fitting programs like Pyfa and EFT, so you might need to move a decimal around at some point.
+Rolling mass amounts are discussed in very large units, called Gigagrams (Gg) or Kilotons (kT). They are both equal to
+1,000,000 kg of mass. The superior unit of measurement is however the "Rolling Unit", or RU, which is 100,000,000 kg, or 100 Gg/kT
+
+Ship mass is given in Kg in both the fitting window and the various fitting programs (EFT/Pyfa), so you're gonna have to move decimal places around sometimes.
+Also, ship mass is increased when you activate a prop mod (MWD or an Afterburner), by a set amount dictated by the module size,
+so a large afterburner and a large MWD increase the mass by the same amount)
 
 Activating a prop mod increases the mass of your ship.  An AB and a MWD of equal size give an equal mass increase.
+
+
+## General Info About Wormholes
+Wormholes have 3 important statistics that we'll keep track of here: the wormhole mass, age and type.
+
+### Wormhole Mass
+All wormholes "reduce" when they hit 50% of the total mass allowed through ("This wormhole has had its stability reduced by ships passing through it, but not to a critical degree yet"),
+and "crit" when there's only 10% mass left (aka 90% of total allowed mass jumped through) ("This wormhole has had its stability critically disrupted by the mass of numerous ships passing through and is on the verge of collapse." )
+You can and should regularly check whether a wormhole is reduced, crit or normal (above 50% mass left) by right clicking and pressing "show info" on the wormhole itself
+(if it's normal, it will say "This wormhole has not yet had its stability significantly disrupted by ships passing through it." )
+All wormholes also have a 10% deviation to their mass amount, so a hole with 30 RU of mass can have anywhere between 30^3 worth of mass.
 
 ## All-Out Rolling
 
